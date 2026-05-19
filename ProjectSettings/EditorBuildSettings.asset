@@ -6,7 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    path: Assets/_Scenes/Start.unity
+    guid: ecb0ef673120cc64aa0e630179de5c35
+  - enabled: 1
+    path: Assets/_Scenes/SculptMesh_PC.unity
+    guid: fda69118bd11ec00d0001b588d76c639
+  - enabled: 1
+    path: Assets/_Scenes/SculptMesh_VR.unity
+    guid: 329e30ace85910144998f2a756bf5c04
+  - enabled: 1
+    path: Assets/_Scenes/Gallery.unity
+    guid: ac1f93f3d751bb540883f65cd653c782
+  m_configObjects: {}
