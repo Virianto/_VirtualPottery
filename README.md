@@ -16,68 +16,68 @@
 
 ---
 
-## 🏺 Cerámica digital en tiempo real
+## 🏺 Real-time digital pottery
 
-**_VirtualPottery_** es un repositorio enfocado en la interacción en tiempo real con mallas dentro de **Unity**, explorando una idea especialmente atractiva: **modelar, deformar o manipular una pieza virtual como si se tratara de cerámica digital viva**.
+**_VirtualPottery_** is a repository focused on real-time mesh interaction inside **Unity**, exploring a particularly compelling idea: **shaping, deforming, or manipulating a virtual piece as if it were living digital pottery**.
 
-La propuesta combina:
+The concept combines:
 
-- **simulación interactiva**,  
-- **manipulación de geometría en tiempo real**,  
-- **feedback visual inmediato**,  
-- y una presentación pensada para que el repositorio tenga una identidad visual potente desde GitHub.
+- **interactive simulation**,  
+- **real-time geometry manipulation**,  
+- **immediate visual feedback**,  
+- and a presentation designed to give the repository a strong visual identity directly on GitHub.
 
-> **Objetivo:** presentar el proyecto como una experiencia interactiva, técnica y visualmente memorable.
-
----
-
-## ✨ Qué transmite este repositorio
-
-- **Interacción directa con mallas en tiempo real**.
-- **Base técnica centrada en Unity y C#**.
-- **Posibilidad de deformación, escultura o modificación procedural**.
-- **Presentación minimalista con estética futurista y experimental**.
+> **Goal:** present the project as an interactive, technical, and visually memorable experience.
 
 ---
 
-## 🧬 Stack del proyecto
+## ✨ What this repository conveys
+
+- **Direct real-time interaction with meshes**.
+- **A technical foundation centered on Unity and C#**.
+- **The possibility of deformation, sculpting, or procedural modification**.
+- **A minimal presentation with a futuristic and experimental aesthetic**.
+
+---
+
+## 🧬 Project stack
 
 <table>
   <tr>
-    <td><b>Motor</b></td>
+    <td><b>Engine</b></td>
     <td><b>Unity</b></td>
   </tr>
   <tr>
-    <td><b>Lenguaje principal</b></td>
+    <td><b>Main language</b></td>
     <td><b>C#</b></td>
   </tr>
   <tr>
-    <td><b>Complementos visuales</b></td>
+    <td><b>Visual complements</b></td>
     <td><b>ShaderLab + JavaScript</b></td>
   </tr>
   <tr>
-    <td><b>Propósito</b></td>
-    <td><b>Interacción de mallas, escultura digital y feedback visual en tiempo real</b></td>
+    <td><b>Purpose</b></td>
+    <td><b>Mesh interaction, digital sculpting, and real-time visual feedback</b></td>
   </tr>
 </table>
 
 ---
 
-## 🎥 Preview principal
+## 🎥 Main preview
 
-> **Placeholder preparado para tu GIF real.** Sustituye `assets/preview-pottery.gif` por la ruta del archivo que quieras subir al repositorio.
+> **Placeholder ready for your real GIF.** Replace `assets/preview-pottery.gif` with the path to the file you want to upload to the repository.
 
 <div align="center">
-  <img src="assets/preview-pottery.gif" alt="Preview de VirtualPottery — reemplazar por GIF real" width="900" />
+  <img src="assets/preview-pottery.gif" alt="VirtualPottery preview — replace with a real GIF" width="900" />
 </div>
 
 <p align="center">
-  <sub>🔁 Inserta aquí un GIF de la interacción con la malla para que el README muestre el proyecto en acción desde el primer vistazo.</sub>
+  <sub>🔁 Insert a GIF of the mesh interaction here so the README shows the project in action at first glance.</sub>
 </p>
 
 ---
 
-## 🖼️ Atmósfera del proyecto
+## 🖼️ Project atmosphere
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1516542076529-1ea3854896e1?auto=format&fit=crop&w=1400&q=80" width="49%" alt="Pottery artistic inspiration" />
@@ -85,24 +85,24 @@ La propuesta combina:
 </div>
 
 <p align="center">
-  <sub>Forma, materia, gesto, deformación y respuesta en tiempo real: la esencia visual de la cerámica digital interactiva.</sub>
+  <sub>Form, material, gesture, deformation, and real-time response: the visual essence of interactive digital pottery.</sub>
 </p>
 
 ---
 
-## 🚀 Qué tipo de sistema puedes esperar aquí
+## 🚀 What kind of system you can expect here
 
-- **Interacción directa con la superficie de una malla**.
-- **Modificación de forma en tiempo real**.
-- **Comportamientos de deformación o esculpido procedural**.
-- **Visualización inmediata de cambios**.
-- **Experimentos con materiales, sombreado y respuesta táctil/visual**.
+- **Direct interaction with a mesh surface**.
+- **Real-time shape modification**.
+- **Deformation or procedural sculpting behaviors**.
+- **Immediate visualization of changes**.
+- **Experiments with materials, shading, and tactile/visual feedback**.
 
 ---
 
-## 📁 Estructura del repositorio
+## 📁 Repository structure
 
-> La estructura exacta puede evolucionar, pero este README está planteado para documentar un proyecto Unity de interacción geométrica en tiempo real.
+> The exact structure may evolve, but this README is designed to document a Unity project focused on real-time geometric interaction.
 
 ```text
 _VirtualPottery/
@@ -113,61 +113,61 @@ _VirtualPottery/
 └── ...
 ```
 
-### 🔍 Lectura rápida de la estructura
+### 🔍 Quick structure overview
 
-- **Assets/** → scripts, escenas, materiales, shaders, prefabs y recursos visuales.
-- **Packages/** → dependencias del proyecto.
-- **ProjectSettings/** → configuración de Unity.
-- **README.md** → portada visual y técnica del repositorio.
-
----
-
-## 🛠️ Cómo usar este repositorio
-
-1. **Clona** el proyecto.
-2. **Ábrelo con Unity**.
-3. Revisa las escenas o scripts principales relacionados con la interacción de malla.
-4. Ejecuta el proyecto y prueba el flujo interactivo.
-5. Sustituye el GIF placeholder por una captura real de la experiencia.
+- **Assets/** → scripts, scenes, materials, shaders, prefabs, and visual resources.
+- **Packages/** → project dependencies.
+- **ProjectSettings/** → Unity configuration.
+- **README.md** → the repository’s visual and technical cover page.
 
 ---
 
-## 🧠 Filosofía del proyecto
+## 🛠️ How to use this repository
 
-En _VirtualPottery_, la tecnología no solo se usa para renderizar objetos.
-Se usa para **dar sensación de materia**, **respuesta**, **forma en transformación** y **control directo sobre la geometría**.
-
-La intención del proyecto es unir:
-
-- **interacción**,
-- **simulación visual**,
-- **expresividad formal**,
-- y **una experiencia que transmita creatividad técnica**.
-
-> **No se trata solo de mover vértices. Se trata de dar vida digital a la forma.**
+1. **Clone** the project.
+2. **Open it in Unity**.
+3. Review the main scenes or scripts related to mesh interaction.
+4. Run the project and test the interactive workflow.
+5. Replace the GIF placeholder with a real capture of the experience.
 
 ---
 
-## 📌 Próximos pasos recomendados
+## 🧠 Project philosophy
 
-Para que este README se vea todavía mejor, te recomiendo añadir después:
+In _VirtualPottery_, technology is not used only to render objects.
+It is used to **create a sense of material**, **response**, **shape in transformation**, and **direct control over geometry**.
 
-- Un GIF real del modelado o interacción.
-- Capturas del proceso de deformación.
-- Una sección `Features` con mecánicas concretas.
-- Una sección `Technical Notes` explicando cómo se actualiza la malla.
-- Una galería de screenshots del objeto en distintas fases.
-- Si aplica, información sobre input (ratón, teclado, touch, VR, etc.).
+The intention of the project is to bring together:
+
+- **interaction**,
+- **visual simulation**,
+- **formal expressiveness**,
+- and **an experience that conveys technical creativity**.
+
+> **This is not just about moving vertices. It is about giving digital life to form.**
 
 ---
 
-## ⭐ Cierre
+## 📌 Recommended next steps
 
-Si este proyecto busca explorar la interacción en tiempo real con geometría dentro de Unity,
-este README ya actúa como una **portada con identidad visual y técnica**, lista para elevarse aún más cuando añadas previews reales del sistema.
+To make this README look even better, I recommend adding later:
+
+- A real GIF of the sculpting or interaction.
+- Screenshots of the deformation process.
+- A `Features` section with concrete mechanics.
+- A `Technical Notes` section explaining how the mesh is updated.
+- A screenshot gallery showing the object in different stages.
+- If applicable, input information (mouse, keyboard, touch, VR, etc.).
+
+---
+
+## ⭐ Closing
+
+If this project aims to explore real-time interaction with geometry inside Unity,
+this README already acts as a **cover page with visual and technical identity**, ready to level up even more once you add real previews of the system.
 
 <div align="center">
-  <b>Forma digital. Respuesta inmediata. Interacción viva.</b>
+  <b>Digital form. Instant response. Living interaction.</b>
 </div>
 
 <br />
