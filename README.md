@@ -1,16 +1,9 @@
-# 🌀 _VirtualPottery_
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A00FF,35:00C2FF,70:00F5A0,100:111111&text=_VirtualPottery&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Unity%20Realtime%20Mesh%20Interaction%20%7C%20C%23%20%7C%20ShaderLab&descAlignY=60" alt="_VirtualPottery banner" />
-
-<br />
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:111111,33:FF9900,67:FF0099,100:111111&text=Unity%20Virtual%20Pottery&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Unity%20Realtime%20Mesh%20Interaction%20%7C%20C%23%" alt="Unity Virtual Pottery" />
 
 <img alt="Unity" src="https://img.shields.io/badge/Unity-Realtime%20Interaction-111111?style=for-the-badge&logo=unity&logoColor=white">
 <img alt="CSharp" src="https://img.shields.io/badge/C%23-Core-7C4DFF?style=for-the-badge">
-<img alt="ShaderLab" src="https://img.shields.io/badge/ShaderLab-Visual%20Layer-00C2FF?style=for-the-badge">
-<img alt="Status" src="https://img.shields.io/badge/Status-Interactive%20Lab-00F5A0?style=for-the-badge&logoColor=black">
 
 </div>
 
@@ -173,5 +166,5 @@ this README already acts as a **cover page with visual and technical identity**,
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:111111,30:6A00FF,70:00C2FF,100:00F5A0" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:111111,33:FF9900,67:FF0099,100:111111" alt="footer" />
 </div>
