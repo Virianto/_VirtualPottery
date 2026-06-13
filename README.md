@@ -56,30 +56,13 @@ The concept combines:
 
 ---
 
-## 🎥 Main preview
+## 🎥 Showcase
 
-> **Placeholder ready for your real GIF.** Replace `assets/preview-pottery.gif` with the path to the file you want to upload to the repository.
-
-<div align="center">
-  <img src="assets/preview-pottery.gif" alt="VirtualPottery preview — replace with a real GIF" width="900" />
-</div>
-
-<p align="center">
-  <sub>🔁 Insert a GIF of the mesh interaction here so the README shows the project in action at first glance.</sub>
-</p>
-
----
-
-## 🖼️ Project atmosphere
+> **Directly recorded from project** 
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1516542076529-1ea3854896e1?auto=format&fit=crop&w=1400&q=80" width="49%" alt="Pottery artistic inspiration" />
-  <img src="https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1400&q=80" width="49%" alt="Hands crafting clay inspiration" />
+  <img src="GIFs/Collisions.gif" alt="Virtual Pottery Showcase" width="720" />
 </div>
-
-<p align="center">
-  <sub>Form, material, gesture, deformation, and real-time response: the visual essence of interactive digital pottery.</sub>
-</p>
 
 ---
 
