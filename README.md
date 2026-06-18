@@ -11,48 +11,13 @@
 
 ## 🏺 Real-time digital pottery
 
-**_VirtualPottery_** is a repository focused on real-time mesh interaction inside **Unity**, exploring a particularly compelling idea: **shaping, deforming, or manipulating a virtual piece as if it were living digital pottery**.
+> **_VirtualPottery_** is a repository focused on real-time mesh interaction inside **Unity**, exploring a particularly compelling idea: **shaping, deforming, or manipulating a virtual piece as if it were living digital pottery**.
 
 The concept combines:
 
-- **interactive simulation**,  
-- **real-time geometry manipulation**,  
-- **immediate visual feedback**,  
-- and a presentation designed to give the repository a strong visual identity directly on GitHub.
-
-> **Goal:** present the project as an interactive, technical, and visually memorable experience.
-
----
-
-## ✨ What this repository conveys
-
-- **Direct real-time interaction with meshes**.
-- **A technical foundation centered on Unity and C#**.
-- **The possibility of deformation, sculpting, or procedural modification**.
-- **A minimal presentation with a futuristic and experimental aesthetic**.
-
----
-
-## 🧬 Project stack
-
-<table>
-  <tr>
-    <td><b>Engine</b></td>
-    <td><b>Unity</b></td>
-  </tr>
-  <tr>
-    <td><b>Main language</b></td>
-    <td><b>C#</b></td>
-  </tr>
-  <tr>
-    <td><b>Visual complements</b></td>
-    <td><b>ShaderLab + JavaScript</b></td>
-  </tr>
-  <tr>
-    <td><b>Purpose</b></td>
-    <td><b>Mesh interaction, digital sculpting, and real-time visual feedback</b></td>
-  </tr>
-</table>
+- **Interactive simulation**,
+- **Real-time geometry manipulation**,
+- **FBX gallery saving**,
 
 ---
 
@@ -61,43 +26,11 @@ The concept combines:
 > **Directly recorded from project** 
 
 <div align="center">
-  <img src="GIFs/Collisions.gif" alt="Virtual Pottery Showcase" width="720" />
+  <img src="GIFs/Collisions.gif" alt="Virtual Pottery Showcase" width="690" />
 </div>
 
 ---
-
-## 🚀 What kind of system you can expect here
-
-- **Direct interaction with a mesh surface**.
-- **Real-time shape modification**.
-- **Deformation or procedural sculpting behaviors**.
-- **Immediate visualization of changes**.
-- **Experiments with materials, shading, and tactile/visual feedback**.
-
----
-
-## 📁 Repository structure
-
-> The exact structure may evolve, but this README is designed to document a Unity project focused on real-time geometric interaction.
-
-```text
-_VirtualPottery/
-├── Assets/
-├── Packages/
-├── ProjectSettings/
-├── README.md
-└── ...
-```
-
-### 🔍 Quick structure overview
-
-- **Assets/** → scripts, scenes, materials, shaders, prefabs, and visual resources.
-- **Packages/** → project dependencies.
-- **ProjectSettings/** → Unity configuration.
-- **README.md** → the repository’s visual and technical cover page.
-
----
-
+<!--
 ## 🛠️ How to use this repository
 
 1. **Clone** the project.
@@ -107,43 +40,11 @@ _VirtualPottery/
 5. Replace the GIF placeholder with a real capture of the experience.
 
 ---
-
-## 🧠 Project philosophy
-
-In _VirtualPottery_, technology is not used only to render objects.
-It is used to **create a sense of material**, **response**, **shape in transformation**, and **direct control over geometry**.
-
-The intention of the project is to bring together:
-
-- **interaction**,
-- **visual simulation**,
-- **formal expressiveness**,
-- and **an experience that conveys technical creativity**.
-
-> **This is not just about moving vertices. It is about giving digital life to form.**
-
----
-
-## 📌 Recommended next steps
-
-To make this README look even better, I recommend adding later:
-
-- A real GIF of the sculpting or interaction.
-- Screenshots of the deformation process.
-- A `Features` section with concrete mechanics.
-- A `Technical Notes` section explaining how the mesh is updated.
-- A screenshot gallery showing the object in different stages.
-- If applicable, input information (mouse, keyboard, touch, VR, etc.).
-
----
-
-## ⭐ Closing
-
-If this project aims to explore real-time interaction with geometry inside Unity,
-this README already acts as a **cover page with visual and technical identity**, ready to level up even more once you add real previews of the system.
+-->
+## 📌 License
 
 <div align="center">
-  <b>Digital form. Instant response. Living interaction.</b>
+  <b>This content shall be distributed under MIT license</b>
 </div>
 
 <br />
